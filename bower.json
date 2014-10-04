@@ -1,5 +1,5 @@
 {
-  "name": "angular-flip",
+  "name": "angular-flip-remastered",
   "version": "0.0.1",
   "ignore": [
     "**/.*",
@@ -10,7 +10,7 @@
   ],
   "dependencies": {
     "angular": "git://github.com/angular/bower-angular.git#1.2.0rc1",
-    "angular-mocks": "1.2.0rc1",
+    "angular-mocks": "1.2.0-rc.1",
     "jquery": "~2.0.3"
   }
 }
